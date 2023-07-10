@@ -28,7 +28,7 @@
     "http-server": "^14.1.1",
     "husky": "^8.0.2",
     "lint-staged": "^13.0.3",
-    "prettier": "^2.7.1"
+    "prettier": "^3.0.0"
   },
   "lint-staged": {
     "*.{js,jsx}": "eslint --cache --fix"
